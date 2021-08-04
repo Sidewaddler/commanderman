@@ -1,0 +1,3 @@
+VAL-STATUS-V1='GET /val/status/v1/platform-data'
+VAL-RANKED-V1='GET /val/ranked/v1/leaderboards/by-act/{actId}'
+VAL-CONTENT-V1='GET /val/content/v1/contents'
